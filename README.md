@@ -1,9 +1,23 @@
-# Student Alcohol Consumption
+# Student Alcohol Consumption Analysis
 
-Questo dataset contiene informazioni familiari, sociali, di salute e scolastiche di un gruppo di studenti di una scuola secondaria. Tra queste, i voti di fine anno e il consumo di alcool durante la settimana e nel weekend.
+## Overview
+This project investigates the alcohol consumption habits of students and how it correlates with their academic performance and personal life. The analysis is done using Python in a Jupyter notebook format.
 
-I 3 obiettivi di questo progetto sono:
+## Dataset
+The dataset `student-por.csv` includes attributes such as weekly alcohol consumption, academic grades, and demographic information about Portuguese students.
 
-- analizzare il dataset e le relazioni tra le sue variabili
-- addrestrare e confrontare modelli per predire il voto finale di uno studente
-- capire quali sono i fattori che influiscono maggiormente sul voto finale degli studenti
+## Analysis
+The Jupyter notebook `notebook.ipynb` contains:
+- Data Cleaning and Preprocessing
+- Exploratory Data Analysis (EDA) of alcohol consumption patterns
+- Statistical Analysis to understand the impact on academic performance
+- Visualization of key insights
+
+## Findings
+The study provides insights into the relationship between alcohol consumption levels and student performance, highlighting significant trends and patterns.
+
+## How to Run
+1. Ensure Python and Jupyter are installed on your system.
+2. Clone this repository.
+3. Open `notebook.ipynb` in Jupyter to view and run the analysis.
+
